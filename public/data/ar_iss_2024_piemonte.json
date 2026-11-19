@@ -1,0 +1,78 @@
+{
+ "schema_version": "1.0",
+ "edition": "pie_amr_atlas",
+ "source_id": "ar_iss_2024_piemonte",
+ "period": 2024,
+ "geography": "Piemonte",
+ "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+ "coverage": {
+  "value_percent": 39.0,
+  "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+  "limitations": "non corregge per gravita; considera i laboratori che hanno inviato emocolture e/o liquor; il Piemonte non partecipa con una propria rete regionale e la copertura (39,0%) e bassa: i valori non rappresentano tutta la regione"
+ },
+ "indicators": [
+  {
+   "code": "MRSA",
+   "pathogen": "Staphylococcus aureus",
+   "resistance": "meticillina",
+   "isolates": 814,
+   "resistant": 212,
+   "percent": 26.0,
+   "ci95": "23.1-29.2"
+  },
+  {
+   "code": "VRE-faecium",
+   "pathogen": "Enterococcus faecium",
+   "resistance": "vancomicina",
+   "isolates": 264,
+   "resistant": 95,
+   "percent": 36.0,
+   "ci95": "30.2-42.1"
+  },
+  {
+   "code": "CREC",
+   "pathogen": "Escherichia coli",
+   "resistance": "cefalosporine di terza generazione",
+   "isolates": 1664,
+   "resistant": 446,
+   "percent": 26.8,
+   "ci95": "24.7-29.0"
+  },
+  {
+   "code": "CRKP",
+   "pathogen": "Klebsiella pneumoniae",
+   "resistance": "carbapenemi",
+   "isolates": 689,
+   "resistant": 173,
+   "percent": 25.1,
+   "ci95": "21.9-28.5"
+  },
+  {
+   "code": "CRPA",
+   "pathogen": "Pseudomonas aeruginosa",
+   "resistance": "carbapenemi",
+   "isolates": 340,
+   "resistant": 40,
+   "percent": 11.8,
+   "ci95": "8.5-15.7"
+  },
+  {
+   "code": "CRAS",
+   "pathogen": "Acinetobacter species",
+   "resistance": "carbapenemi",
+   "isolates": 51,
+   "resistant": 18,
+   "percent": 35.3,
+   "ci95": "22.4-49.9"
+  }
+ ],
+ "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+ "source": {
+  "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+  "report": "RIS-5/2025",
+  "table": "Tabella 1 (copertura) e Appendice A, Regione Piemonte (p. 52)",
+  "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+  "acquired_at": "2026-11-19",
+  "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+ }
+}

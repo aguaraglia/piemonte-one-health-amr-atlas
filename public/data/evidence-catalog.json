@@ -1,0 +1,32 @@
+{
+ "schema_version": "1.0",
+ "edition": "pie_amr_atlas",
+ "records": [
+  {
+   "id": "ar_iss_2024_piemonte",
+   "title": "AR-ISS 2024 - Piemonte",
+   "publisher": "Istituto Superiore di Sanita",
+   "evidence_type": "human_amr_regional",
+   "geography": "Piemonte",
+   "period": "2024",
+   "source_url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+   "data_file": "public/data/ar_iss_2024_piemonte.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Sei combinazioni patogeno-resistenza da sangue/liquor; copertura regionale 39,0%, senza rete regionale propria: valori non rappresentativi di tutta la regione; nessun downscaling."
+  },
+  {
+   "id": "aifa_opendata_2024_piemonte_j01",
+   "title": "AIFA Open Data 2024 - Piemonte, antibatterici J01",
+   "publisher": "Agenzia Italiana del Farmaco",
+   "evidence_type": "human_antimicrobial_use",
+   "geography": "Piemonte",
+   "period": "2024",
+   "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+   "data_file": "public/data/aifa_opendata_2024_piemonte_j01.json",
+   "publication_status": "public_approved",
+   "license": "CC BY 4.0",
+   "note": "Confezioni e spesa J01 in convenzionata (3.661.570 confezioni, 30,32 milioni di euro) e negli acquisti diretti (1.229.355 confezioni, 17,33 milioni di euro). Consumo, non resistenza."
+  }
+ ]
+}

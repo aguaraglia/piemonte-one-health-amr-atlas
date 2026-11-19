@@ -1,0 +1,24 @@
+{
+ "schema_version": "1.0",
+ "edition": "pie_amr_atlas",
+ "source_id": "aifa_opendata_2024_piemonte_j01",
+ "period": 2024,
+ "geography": "Piemonte",
+ "indicator": {
+  "label": "Antibatterici per uso sistemico (ATC J01)",
+  "packs_convenzionata": 3661570,
+  "expenditure_convenzionata_eur": 30324513,
+  "packs_direct_purchase_traceability": 1229355,
+  "expenditure_direct_purchase_traceability_eur": 17327338,
+  "aggregation": "somma dei 12 mesi 2024 e di tutte le classi di rimborsabilita per atc2 = J01"
+ },
+ "limitations": "Confezioni e spesa, non DDD e non resistenza. Le DDD/1.000 ab-die del rapporto OsMed regionale (PDF) e del Report consumo antibiotici in Piemonte 2019-2022 della Regione non sono riprese perche il PDF e coperto dal copyright AIFA del sito, non dalla licenza open data. Il report regionale e escluso perche le note legali di Regione Piemonte ne consentono l'uso solo previa autorizzazione.",
+ "license": "CC BY 4.0 (AIFA, licenza dei dati aperti: https://www.aifa.gov.it/open-data ; guida CSV)",
+ "source": {
+  "title": "AIFA Open Data - Spesa e consumo relativi al flusso della farmaceutica convenzionata e degli acquisti diretti, anno 2024",
+  "url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+  "landing": "https://www.aifa.gov.it/web/guest/spesa-e-consumo-relativi-al-flusso-della-farmaceutica-convenzionata-e-degli-acquisti-diretti",
+  "acquired_at": "2026-11-19",
+  "sha256": "A7CCD6B30A10FDEC78D4AD53D3DA1B24C0D87130DE54ADBA309462F220F059EB"
+ }
+}

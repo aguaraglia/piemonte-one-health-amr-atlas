@@ -1,0 +1,637 @@
+{
+ "CDS": {
+  "query": "Ospedale Molinette, Torino",
+  "results": [
+   {
+    "place_id": 89128308,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 149116211,
+    "lat": "45.0394675",
+    "lon": "7.6744085",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1507975276546128,
+    "addresstype": "amenity",
+    "name": "Ospedale Molinette",
+    "display_name": "Ospedale Molinette, 88;90, Corso Bramante, Molinette, San Salvario, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+    "address": {
+     "amenity": "Ospedale Molinette",
+     "house_number": "88;90",
+     "road": "Corso Bramante",
+     "neighbourhood": "Molinette",
+     "suburb": "San Salvario",
+     "village": "Cavoretto",
+     "city": "Torino",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10126",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0367697",
+     "45.0421580",
+     "7.6720744",
+     "7.6764007"
+    ]
+   },
+   {
+    "place_id": 89117243,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1262195467,
+    "lat": "45.0421677",
+    "lon": "7.6745155",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.068131532764199e-05,
+    "addresstype": "highway",
+    "name": "Ospedale Molinette",
+    "display_name": "Ospedale Molinette, Corso Bramante, Molinette, Nizza Millefonti, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+    "address": {
+     "highway": "Ospedale Molinette",
+     "road": "Corso Bramante",
+     "neighbourhood": "Molinette",
+     "suburb": "Nizza Millefonti",
+     "village": "Cavoretto",
+     "city": "Torino",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10126",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0421177",
+     "45.0422177",
+     "7.6744655",
+     "7.6745655"
+    ]
+   }
+  ]
+ },
+ "RM": {
+  "query": "Ospedale Infantile Regina Margherita, Torino",
+  "results": [
+   {
+    "place_id": 88751517,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1196653949,
+    "lat": "45.0346655",
+    "lon": "7.6749011",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.20813244289121335,
+    "addresstype": "amenity",
+    "name": "Ospedale Infantile Regina Margherita",
+    "display_name": "Ospedale Infantile Regina Margherita, Piazza Polonia, Nizza Millefonti, Circoscrizione 8, Cavoretto, Torino, Piemonte, 10126, Italia",
+    "address": {
+     "amenity": "Ospedale Infantile Regina Margherita",
+     "road": "Piazza Polonia",
+     "suburb": "Nizza Millefonti",
+     "village": "Cavoretto",
+     "city": "Torino",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10126",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0340302",
+     "45.0355107",
+     "7.6737972",
+     "7.6759361"
+    ]
+   }
+  ]
+ },
+ "OFT": {
+  "query": "Ospedale Oftalmico, Torino",
+  "results": [
+   {
+    "place_id": 89083242,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 294267544,
+    "lat": "45.0741641",
+    "lon": "7.6706178",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 8.068131532764199e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Oftalmico Sperino",
+    "display_name": "Ospedale Oftalmico Sperino, Via Antonio Giuseppe Bertola, Centro, Circoscrizione 1, Torino, Piemonte, 10140, Italia",
+    "address": {
+     "amenity": "Ospedale Oftalmico Sperino",
+     "road": "Via Antonio Giuseppe Bertola",
+     "suburb": "Centro",
+     "city": "Torino",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10140",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0737001",
+     "45.0746281",
+     "7.6698607",
+     "7.6713749"
+    ]
+   }
+  ]
+ },
+ "SL": {
+  "query": "Ospedale San Luigi Gonzaga, Orbassano",
+  "results": [
+   {
+    "place_id": 88569093,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 306641568,
+    "lat": "45.0285933",
+    "lon": "7.5571032",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.18157831638402872,
+    "addresstype": "amenity",
+    "name": "Ospedale San Luigi Gonzaga",
+    "display_name": "Ospedale San Luigi Gonzaga, Via San Luigi, Orbassano, Torino, Piemonte, 10043, Italia",
+    "address": {
+     "amenity": "Ospedale San Luigi Gonzaga",
+     "road": "Via San Luigi",
+     "town": "Orbassano",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10043",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0254978",
+     "45.0319337",
+     "7.5526371",
+     "7.5612517"
+    ]
+   }
+  ]
+ },
+ "SCC": {
+  "query": "Ospedale Santa Croce, Cuneo",
+  "results": [
+   {
+    "place_id": 88696709,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 478256482,
+    "lat": "44.3853167",
+    "lon": "7.5370542",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.832150759131788e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Santa Croce",
+    "display_name": "Ospedale Santa Croce, 26, Via Michele Coppino, Cuneo Nuova, Cerialdo, Cuneo, Piemonte, 12100, Italia",
+    "address": {
+     "amenity": "Ospedale Santa Croce",
+     "house_number": "26",
+     "road": "Via Michele Coppino",
+     "suburb": "Cuneo Nuova",
+     "village": "Cerialdo",
+     "city": "Cuneo",
+     "county": "Cuneo",
+     "ISO3166-2-lvl6": "IT-CN",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "12100",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.3841819",
+     "44.3864323",
+     "7.5354936",
+     "7.5386634"
+    ]
+   }
+  ]
+ },
+ "AL": {
+  "query": "Ospedale Santi Antonio e Biagio, Alessandria",
+  "results": []
+ },
+ "ARR": {
+  "query": "Ospedale Infantile Cesare Arrigo, Alessandria",
+  "results": [
+   {
+    "place_id": 76448485,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 87050189,
+    "lat": "44.9162274",
+    "lon": "8.6259715",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.837796597233566e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Infantile Cesare Arrigo",
+    "display_name": "Ospedale Infantile Cesare Arrigo, 46, Spalto Marengo, Alessandria, Piemonte, 15121, Italia",
+    "address": {
+     "amenity": "Ospedale Infantile Cesare Arrigo",
+     "house_number": "46",
+     "road": "Spalto Marengo",
+     "city": "Alessandria",
+     "county": "Alessandria",
+     "ISO3166-2-lvl6": "IT-AL",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "15121",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "44.9152225",
+     "44.9171403",
+     "8.6249342",
+     "8.6269013"
+    ]
+   }
+  ]
+ },
+ "OVU": {
+  "query": "Ospedale Veterinario Universitario, Grugliasco",
+  "results": [
+   {
+    "place_id": 88482921,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4839678925,
+    "lat": "45.0679786",
+    "lon": "7.5910723",
+    "category": "amenity",
+    "type": "veterinary",
+    "place_rank": 30,
+    "importance": 6.61394674600903e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Veterinario Universitario",
+    "display_name": "Ospedale Veterinario Universitario, 2, Largo Paolo Braccini, Grugliasco, Torino, Piemonte, 10095, Italia",
+    "address": {
+     "amenity": "Ospedale Veterinario Universitario",
+     "house_number": "2",
+     "road": "Largo Paolo Braccini",
+     "town": "Grugliasco",
+     "county": "Torino",
+     "ISO3166-2-lvl6": "IT-TO",
+     "state": "Piemonte",
+     "ISO3166-2-lvl4": "IT-21",
+     "postcode": "10095",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.0679286",
+     "45.0680286",
+     "7.5910223",
+     "7.5911223"
+    ]
+   }
+  ]
+ },
+ "AL_retry": [
+  {
+   "query": "Ospedale Civile Santi Antonio e Biagio Alessandria",
+   "results": []
+  },
+  {
+   "query": "Via Venezia 16, Alessandria",
+   "results": [
+    {
+     "place_id": 76507473,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 201294522,
+     "lat": "44.7683019",
+     "lon": "8.7902180",
+     "category": "highway",
+     "type": "residential",
+     "place_rank": 26,
+     "importance": 0.05339781872281983,
+     "addresstype": "residential",
+     "name": "Via Venezia",
+     "display_name": "Via Venezia, Quartiere G3, Novi Ligure, Alessandria, Piemonte, 15067, Italia",
+     "address": {
+      "road": "Via Venezia",
+      "suburb": "Quartiere G3",
+      "town": "Novi Ligure",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15067",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.7679461",
+      "44.7686445",
+      "8.7883943",
+      "8.7920391"
+     ]
+    },
+    {
+     "place_id": 76479651,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 45098224,
+     "lat": "44.6266946",
+     "lon": "8.6313097",
+     "category": "highway",
+     "type": "unclassified",
+     "place_rank": 26,
+     "importance": 0.05339664377813379,
+     "addresstype": "unclassified",
+     "name": "Via Venezia",
+     "display_name": "Via Venezia, Zona Leonessa, Ovada, Alessandria, Piemonte, 15126, Italia",
+     "address": {
+      "road": "Via Venezia",
+      "residential": "Zona Leonessa",
+      "town": "Ovada",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15126",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.6263557",
+      "44.6270335",
+      "8.6310105",
+      "8.6316088"
+     ]
+    },
+    {
+     "place_id": 76409591,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 175896324,
+     "lat": "44.7072831",
+     "lon": "8.8904731",
+     "category": "highway",
+     "type": "residential",
+     "place_rank": 26,
+     "importance": 0.05339621652552068,
+     "addresstype": "residential",
+     "name": "Via Venezia",
+     "display_name": "Via Venezia, Monterosso, Vignole Borbera, Alessandria, Piemonte, 15060, Italia",
+     "address": {
+      "road": "Via Venezia",
+      "hamlet": "Monterosso",
+      "village": "Vignole Borbera",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15060",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.7071878",
+      "44.7073785",
+      "8.8893605",
+      "8.8915856"
+     ]
+    },
+    {
+     "place_id": 76383288,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 78605615,
+     "lat": "44.9154816",
+     "lon": "8.6200432",
+     "category": "highway",
+     "type": "residential",
+     "place_rank": 26,
+     "importance": 0.05340171129930568,
+     "addresstype": "residential",
+     "name": "Via Venezia",
+     "display_name": "Via Venezia, Alessandria, Piemonte, 15121, Italia",
+     "address": {
+      "road": "Via Venezia",
+      "city": "Alessandria",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15121",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.9150345",
+      "44.9159426",
+      "8.6184042",
+      "8.6216861"
+     ]
+    },
+    {
+     "place_id": 75992317,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 89419359,
+     "lat": "45.1767846",
+     "lon": "8.4785050",
+     "category": "highway",
+     "type": "residential",
+     "place_rank": 26,
+     "importance": 0.05339956130312044,
+     "addresstype": "residential",
+     "name": "Via Venezia",
+     "display_name": "Via Venezia, Villanova Monferrato, Alessandria, Piemonte, Italia",
+     "address": {
+      "road": "Via Venezia",
+      "village": "Villanova Monferrato",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "45.1758163",
+      "45.1777749",
+      "8.4769899",
+      "8.4798611"
+     ]
+    }
+   ]
+  },
+  {
+   "query": "Ospedale Civile, Alessandria",
+   "results": [
+    {
+     "place_id": 76439370,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 4099123947,
+     "lat": "44.9165877",
+     "lon": "8.6228475",
+     "category": "highway",
+     "type": "bus_stop",
+     "place_rank": 30,
+     "importance": 6.837796597233566e-05,
+     "addresstype": "highway",
+     "name": "Ospedale Civile (capolinea)",
+     "display_name": "Ospedale Civile (capolinea), Spalto Marengo, Alessandria, Piemonte, 15121, Italia",
+     "address": {
+      "highway": "Ospedale Civile (capolinea)",
+      "road": "Spalto Marengo",
+      "city": "Alessandria",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15121",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.9165377",
+      "44.9166377",
+      "8.6227975",
+      "8.6228975"
+     ]
+    },
+    {
+     "place_id": 76105523,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 45098413,
+     "lat": "44.6385149",
+     "lon": "8.6404003",
+     "category": "amenity",
+     "type": "hospital",
+     "place_rank": 30,
+     "importance": 6.331044480044278e-05,
+     "addresstype": "amenity",
+     "name": "Ospedale Civile",
+     "display_name": "Ospedale Civile, 22, Via Bernardo Ruffini, Ovada, Alessandria, Piemonte, 15076, Italia",
+     "address": {
+      "amenity": "Ospedale Civile",
+      "house_number": "22",
+      "road": "Via Bernardo Ruffini",
+      "town": "Ovada",
+      "county": "Alessandria",
+      "ISO3166-2-lvl6": "IT-AL",
+      "state": "Piemonte",
+      "ISO3166-2-lvl4": "IT-21",
+      "postcode": "15076",
+      "country": "Italia",
+      "country_code": "it"
+     },
+     "boundingbox": [
+      "44.6382332",
+      "44.6388338",
+      "8.6397299",
+      "8.6411037"
+     ]
+    }
+   ]
+  },
+  {
+   "query": {
+    "q": "Ospedale Santi Antonio e Biagio",
+    "format": "jsonv2",
+    "limit": 8,
+    "countrycodes": "it"
+   },
+   "results": [
+    {
+     "place_id": 76166677,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "way",
+     "osm_id": 87050186,
+     "lat": "44.9161580",
+     "lon": "8.6221526",
+     "category": "amenity",
+     "type": "hospital",
+     "place_rank": 30,
+     "importance": 6.837796597233566e-05,
+     "addresstype": "amenity",
+     "name": "Ospedale Civile Santi Antonio e Biagio e Cesare Arrigo",
+     "display_name": "Ospedale Civile Santi Antonio e Biagio e Cesare Arrigo, Via San Pio V, Alessandria, Piemonte, 15121, Italia",
+     "boundingbox": [
+      "44.9149310",
+      "44.9172846",
+      "8.6204711",
+      "8.6234629"
+     ]
+    }
+   ]
+  },
+  {
+   "query": {
+    "q": "Azienda Ospedaliera Alessandria",
+    "format": "jsonv2",
+    "limit": 8,
+    "countrycodes": "it"
+   },
+   "results": [
+    {
+     "place_id": 76868698,
+     "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+     "osm_type": "node",
+     "osm_id": 3456135995,
+     "lat": "44.9160726",
+     "lon": "8.6207437",
+     "category": "office",
+     "type": "government",
+     "place_rank": 30,
+     "importance": 6.837796597233566e-05,
+     "addresstype": "office",
+     "name": "Azienda Ospedaliera - Uffici Amministrativi",
+     "display_name": "Azienda Ospedaliera - Uffici Amministrativi, 30, Via Santa Caterina da Siena, Alessandria, Piemonte, 15121, Italia",
+     "boundingbox": [
+      "44.9160226",
+      "44.9161226",
+      "8.6206937",
+      "8.6207937"
+     ]
+    }
+   ]
+  },
+  {
+   "query": {
+    "amenity": "hospital",
+    "city": "Alessandria",
+    "format": "jsonv2",
+    "limit": 8,
+    "countrycodes": "it"
+   },
+   "results": []
+  }
+ ]
+}

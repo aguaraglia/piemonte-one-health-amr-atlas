@@ -1,0 +1,26 @@
+{
+  "id": "pie_amr_atlas",
+  "regionCode": "PIE",
+  "regionName": "Piemonte",
+  "title": "Piemonte One Health AMR Atlas",
+  "shortName": "Piemonte One Health",
+  "brandIcon": "public/brand/piemonte-region-mark.svg",
+  "language": "it",
+  "publisher": "Codex Vitae ETS",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 19 novembre 2026 (64 studi). Fonti istituzionali: AR-ISS 2024 (CC BY 4.0, copertura 39,0%, senza rete regionale propria) e AIFA Open Data 2024 (CC BY 4.0).",
+  "literaturePlacePhrase": "al Piemonte",
+  "publicScopeSummary": "Confini ISTAT 2026 (1.180 comuni, 7 province e la Città metropolitana di Torino, regione); AR-ISS 2024 (CC BY 4.0, copertura 39,0%, senza rete regionale propria); AIFA Open Data 2024, antibatterici J01 (CC BY 4.0); 8 strutture nominate georiferite con Nominatim (ODbL); letteratura scientifica piemontese del 19 novembre 2026 (64 studi). Regione Piemonte, SeREMI e il PDF OsMed sono esclusi: nessuna licenza di riuso. IZSPLV non pubblica dati AMR riutilizzabili; Arpa Piemonte non ha ancora pubblicato dati AMR. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata.",
+  "map": {
+    "center": [
+      45.26,
+      7.92
+    ],
+    "zoom": 8
+  },
+  "overviewLiteratureLabel": "studi sulla mappa",
+  "catalogs": {
+    "layers": "public/data/layer-catalog.json",
+    "evidence": "public/data/evidence-catalog.json",
+    "literature": "public/data/literature-catalog.json"
+  }
+}
